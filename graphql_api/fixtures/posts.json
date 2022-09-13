@@ -1,0 +1,19 @@
+[
+    {
+    "model": "graphql_api.post",
+    "pk": 1,
+    "fields": {
+      "content": "I don't know who I am",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "graphql_api.post",
+    "pk": 2,
+    "fields": {
+      "content": "I love to party!!!",
+      "created_by": 2
+    }
+  }
+
+]
